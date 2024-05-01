@@ -2,11 +2,6 @@
 
 # Kubesec
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubescape/stacked/white/kubescape-stacked-white.svg" width="150">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubescape/stacked/color/kubescape-stacked-color.svg" width="150">
-  <img alt="Kubescape logo" align="right" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubescape/stacked/color/kubescape-stacked-color.svg" width="150">
-</picture>
 
 Kubesec is an open-source Kubernetes security platform designed to seamlessly integrate into your daily workflow. It's tailored to work within your clusters, CI/CD pipelines, and IDE, providing comprehensive security solutions while filtering out unnecessary scanner noise.
 
